@@ -1,0 +1,70 @@
+2
+user  2 's activity number 984
+after filtered:  873
+activities count:
+[142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+current activities: 144 . Increased xyz data count  1155841  total xyz data: 1155841
+3
+user  3 's activity number 325
+after filtered:  320
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 3, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0]
+current activities: 158 . Increased xyz data count  76131  total xyz data: 1231972
+5
+user  5 's activity number 4615
+after filtered:  4571
+activities count:
+[0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 103, 51, 0, 5, 52, 6, 55, 1, 3, 0, 0, 0, 0, 0, 0, 0]
+current activities: 438 . Increased xyz data count  1289669  total xyz data: 2521641
+6
+user  6 's activity number 3495
+after filtered:  3494
+activities count:
+[0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 3, 11, 10, 0, 0, 21, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+current activities: 487 . Increased xyz data count  45590  total xyz data: 2567231
+7
+user  7 's activity number 2897
+after filtered:  2817
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 111, 31, 0, 4, 15, 5, 0, 0, 2, 0, 5, 0, 0, 0, 0, 0]
+current activities: 665 . Increased xyz data count  1936012  total xyz data: 4503243
+9
+user  9 's activity number 1948
+after filtered:  1948
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 34, 0, 0, 46, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+current activities: 793 . Increased xyz data count  2188  total xyz data: 4505431
+12
+user  12 's activity number 6517
+after filtered:  6514
+activities count:
+[14, 19, 0, 26, 2, 3, 3, 5, 8, 5, 82, 243, 231, 5, 21, 141, 7, 254, 23, 4, 1, 32, 9, 0, 1, 0, 4]
+current activities: 1936 . Increased xyz data count  180745  total xyz data: 4686176
+17
+user  17 's activity number 1549
+after filtered:  1549
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 191, 0, 0, 0, 84, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]
+current activities: 2232 . Increased xyz data count  2355146  total xyz data: 7041322
+19
+user  19 's activity number 1644
+after filtered:  1629
+activities count:
+[0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 4, 45, 14, 0, 0, 35, 0, 0, 2, 5, 0, 15, 0, 0, 0, 0, 0]
+current activities: 2369 . Increased xyz data count  47821  total xyz data: 7089143
+21
+user  21 's activity number 671
+after filtered:  671
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 16, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+current activities: 2401 . Increased xyz data count  122573  total xyz data: 7211716
+22
+user  22 's activity number 1944
+after filtered:  1932
+activities count:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+current activities: 2405 . Increased xyz data count  741  total xyz data: 7212457
+
+total activity count
+[156  19   1  43   3   3   5   5   8   5 116 767 375   5  30 412  18 309
+  32  26   1  52   9   0   1   0   4]
